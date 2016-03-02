@@ -1,0 +1,434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"timt",
+				"timestamp"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"serch",
+				"search"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"se",
+				"select	Tag"
+			],
+			[
+				"l",
+				"leads"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"btn-s",
+				"btn-sm"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"chrome",
+				"Chrome"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/wptrello/wp-config.php",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/js_sendquote.php",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/js_getpdf.php",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/v_quick-quote-result.php",
+		"/C/xampp/htdocs/titlecapture/app/core.php",
+		"/C/xampp/htdocs/titlecapture/app/library/email_template.php",
+		"/C/xampp/htdocs/angular_demo/upload.php",
+		"/C/xampp/htdocs/angular_demo/upload.html",
+		"/C/xampp/htdocs/angular_demo/js/flow.min.js",
+		"/C/xampp/htdocs/titlecapture/client/sys-hyb/v_header.php",
+		"/C/xampp/htdocs/titlecapture/client/login/v_header.php",
+		"/C/xampp/htdocs/titlecapture/app/login/v_header.php",
+		"/C/xampp/htdocs/titlecapture/app/login/m_main.php",
+		"/C/xampp/htdocs/titlecapture/app/login/v_register.php",
+		"/C/xampp/htdocs/titlecapture/app/login/js/custom.js",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/assets/css/style.css",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/assets/css/filetypes.css",
+		"/C/xampp/htdocs/titlecapture/client/sys-hyb/v_dashboard-phase3.php",
+		"/C/xampp/htdocs/titlecapture/admin/login/assets/css/style.css",
+		"/C/xampp/htdocs/titlecapture/client/sys-hyb/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/client/sys-hyb/css/custom.css",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/v_alta.php",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/v_alta-result.php",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/v_quick-quote.php",
+		"/C/xampp/htdocs/titlecapture/app/login/v_login.php",
+		"/C/xampp/htdocs/titlecapture/app/login/assets/css/style.css",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/v_header.php",
+		"/C/xampp/htdocs/titlecapture/client/login/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/app/login/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/backoffice/sys/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/client/sys-hyb/css/style.css",
+		"/C/xampp/htdocs/angular_demo/index.html",
+		"/C/xampp/htdocs/titlecapture/app/login/sa_register-do.php",
+		"/C/xampp/htdocs/titlecapture/admin/sys-dev/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/admin/sys-dev/v_header.php",
+		"/C/xampp/htdocs/titlecapture/admin/sys-md/v_header.php",
+		"/C/xampp/htdocs/titlecapture/admin/sys-mn/v_header.php",
+		"/C/xampp/htdocs/titlecapture/admin/sys-va/v_header.php",
+		"/C/xampp/htdocs/titlecapture/admin/sys-md/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/admin/sys-hyb/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/admin/sys-hyb/v_header.php",
+		"/C/xampp/htdocs/titlecapture/admin/sys/v_header.php",
+		"/C/xampp/htdocs/titlecapture/admin/sys-mn/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/admin/sys-va/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/admin/sys/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/admin/login/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/admin/login/v_header.php",
+		"/C/xampp/htdocs/titlecapture/admin/sys-hyb/v_companies.php",
+		"/C/xampp/htdocs/titlecapture/backoffice/login/v_header.php",
+		"/C/xampp/htdocs/titlecapture/backoffice/login/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/backoffice/sys/v_companies.php",
+		"/C/xampp/htdocs/titlecapture/backoffice/sys/v_header.php",
+		"/C/xampp/htdocs/titlecapture/backoffice/login/m_login.php",
+		"/C/xampp/htdocs/titlecapture/client/sys-hyb/assets/css/style.css",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/css/saturation.png",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/assets/css/style.less",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/assets/css/less/navigation.less",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/assets/css/less/header.less",
+		"/C/xampp/htdocs/angular_demo/register-profile.html",
+		"/C/xampp/htdocs/angular_demo/single-profile.html",
+		"/C/xampp/htdocs/angular_demo/js/script.js",
+		"/D/0 Amol/0.camophoto/bak18.1/skin.less",
+		"/D/0 Amol/0. Camo/0.camophoto/bak15.1/camophoto/less/var.less",
+		"/D/0 Amol/0. Camo/0.camophoto/bak15.1/camophoto/less/skin.less",
+		"/C/xampp/htdocs/angular_demo/js/bootstrap.js",
+		"/C/xampp/htdocs/angular_demo/js/imageupload.js",
+		"/C/xampp/htdocs/angular_demo/profile.json",
+		"/C/Users/Priti K/Downloads/angularjs-imageupload-directive-master/angularjs-imageupload-directive-master/demo.html",
+		"/C/Users/Priti K/Downloads/angularjs-imageupload-directive-master/angularjs-imageupload-directive-master/bower.json",
+		"/C/Users/Priti K/Downloads/angularjs-imageupload-directive-master/angularjs-imageupload-directive-master/public/javascripts/imageupload.js",
+		"/C/xampp/htdocs/titlecapture/client/sys-hyb/v_quick-quote.php",
+		"/C/xampp/htdocs/realestate/js/script.js",
+		"/C/xampp/htdocs/realestate/js/monthly.js",
+		"/C/xampp/htdocs/titlecapture/app/apis/api-leads.php",
+		"/C/xampp/htdocs/angular_demo/css/style.css",
+		"/C/xampp/htdocs/angular_demo/trello.html",
+		"/C/xampp/htdocs/titlecapture/client/sys-hyb/v_no-login.php",
+		"/C/xampp/htdocs/titlecapture/client/sys-hyb/css/bootstrap.css",
+		"/D/0 Amol/0. Alex/0. RealEstate/modules/1 homebuyer/img/well-img.jpg",
+		"/C/xampp/htdocs/titlecapture/client/sys-hyb/m_dashboard-phase3.php",
+		"/C/xampp/htdocs/realestate/index.html",
+		"/C/xampp/htdocs/realestate/css/style.css",
+		"/C/xampp/htdocs/titlecapture/client/core.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/realestate/css/proxima-nova.css",
+		"/C/xampp/htdocs/realestate/events.json",
+		"/C/xampp/htdocs/realestate/events.xml",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/v_footer.php",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb-rep/v_footer.php",
+		"/C/xampp/htdocs/realestate/css/monthly.css",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb-rep/css/tc.css",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb-rep/js_get_endorsements.php",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/js/custom.js",
+		"/C/xampp/htdocs/titlecapture/app/login/m_login.php",
+		"/C/xampp/htdocs/titlecapture/app/router.php",
+		"/C/xampp/htdocs/titlecapture/app/sys-hyb/js_get_endorsements.php",
+		"/X/public_html/gdaconsulting/wp-content/themes/hoxa/style.css",
+		"/V/public_html/gdaconsulting/wp-content/themes/hoxa/css/responsive.css",
+		"/D/Referance/FONTS/Went-Hiking-master/Went-Hiking-master/vendor/assets/stylesheets/formtastic.css.scss",
+		"/D/Project/Baxcounsel/Live_changes/style.css",
+		"/D/Project/MV Agusta/Website/MV-Agusta/css/custom.css",
+		"/C/xampp/htdocs/titlecapture/admin/core.php",
+		"/D/backuyp/phpinfo.php",
+		"/C/xampp/htdocs/titlecapture/admin/a.htaccess",
+		"/C/xampp/htdocs/titlecapture/client/.htaccess",
+		"/D/backuyp/titlecapture/admin/library/connection.php",
+		"/D/backuyp/titlecapture/admin/core.php",
+		"/D/backuyp/titlecapture/admin/login/sa_common.php",
+		"/D/backuyp/titlecapture/admin/login/m_login.php",
+		"/D/backuyp/titlecapture/admin/login/sa_auth.php",
+		"/C/xampp/htdocs/titlecapture/admin/.htaccess",
+		"/C/xampp/phpMyAdmin/libraries/config.default.php",
+		"/D/Project/Find support workers/Final HTML/css/style.css",
+		"/D/Project/Find support workers/HTML/index.html",
+		"/D/Project/Find support workers/HTML/css/style.css",
+		"/C/Users/Priti K/Desktop/hosts"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sendquote",
+			"getPDF",
+			"getPdfTrigger",
+			"fileUpload",
+			"err_regi",
+			"a{",
+			"new",
+			".panel",
+			"panel",
+			"container",
+			"reg",
+			"You need to fill all the fields",
+			" Indicates a dangerous",
+			"log",
+			"color",
+			".navbar-default .navbar-nav > li > a",
+			".cotainer",
+			".container",
+			"container",
+			"body:before",
+			"\\\"",
+			" = ",
+			"cons",
+			"json",
+			".sr",
+			".nologin-setting, .leads",
+			".nologin-setting .well .well-img",
+			"calender",
+			"Calender",
+			"calender",
+			"Calender",
+			"calender",
+			"showCal",
+			"#calendar-event-list ",
+			"#calendar-event-list ul.cal-event-list",
+			"calendar-event-list",
+			"click",
+			".click",
+			"monthly-day-event",
+			"xmlUrl",
+			"listed-event",
+			"list",
+			"bm_popup",
+			"amol",
+			"display :none",
+			"display : none",
+			"display: none",
+			"display:none",
+			"max_",
+			"short_open_tag"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"err_regi_1",
+			"\"",
+			"=",
+			"calendar",
+			"Calendar",
+			"calendar"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true
+}
